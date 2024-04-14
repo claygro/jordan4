@@ -1,0 +1,42 @@
+marquee {
+  color: rgb(18, 18, 117);
+  background-color: red;
+}
+h1 {
+  text-align: center;
+  color: rgb(137, 181, 181);
+  border: 20px;
+  font-weight: bold;
+}
+img {
+  margin: 5%;
+  width: 29%;
+  border-top: 20px solid;
+}
+#author {
+  font-size: x-large;
+  color: rgb(122, 122, 237);
+}
+ol {
+  color: blueviolet;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.author:hover {
+  font-size: x-large;
+  color: red;
+}
+li:first-child {
+  color: red;
+}
+
+p {
+  text-align: center;
+  font-size: x-large;
+}
+a:hover {
+  font-size: x-large;
+  color: brown;
+  background-color: black;
+}
